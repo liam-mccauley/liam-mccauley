@@ -2,8 +2,8 @@
 
 ### 🎓 About Me
 - 🌱 **Education:** Currently studying Computer Science with the **Open University (UK)**.
-- 🚀 **Focus:** Full-stack development, containerization, and data automation.
-- 💡 **Interests:** Leveraging AI to optimize workflows and building robust backend systems.
+- 🚀 **Focus:** Full-stack development, containerisation, and data automation.
+- 💡 **Interests:** Leveraging AI to optimize workflows and building robust, scaleable systems.
 
 ---
 
