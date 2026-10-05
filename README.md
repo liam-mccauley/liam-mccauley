@@ -3,7 +3,7 @@
 ### 🎓 About Me
 - 🌱 **Education:** Currently studying Computer Science with the **Open University (UK)**.
 - 🚀 **Focus:** Full-stack development, containerisation, and data automation.
-- 💡 **Interests:** Leveraging AI to optimize workflows and building robust, scaleable systems.
+- 💡 **Interests:** Leveraging AI to optimize workflows and building robust, scalable systems.
 
 ---
 
@@ -22,9 +22,13 @@
 
 ### 🧪 What I'm Working On (Private Repositories)
 
-While most of my active development happens in private repositories, my current work focuses on:
+While most of my active development happens in private repositories, I am currently building:
 
-* **Containerization & DevOps:** Orchestrating environments using **Docker** and managing VMs to ensure consistent development-to-production workflows.
+* **Logistics Team Management App:** A tailored management application for logistics environments, actively used in **Production**.
+* **Sci-Fi Space MMO:** A science fiction space-based massively multiplayer online game, currently in **Alpha testing**.
+
+**My technical focuses within these and other projects include:**
+* **Containerisation & DevOps:** Orchestrating environments using **Docker** and managing VMs to ensure consistent development-to-production workflows.
 * **Enterprise Logic:** Building scalable backends with **Java Springboot** and automating data processing with **Python**.
 * **Data & Automation:** Developing custom business solutions using **AppSheet** and **AppScript**, with advanced data visualization via **Looker Studio**.
 * **Modern Web:** Crafting responsive, utility-first interfaces using **Tailwind CSS** and **HTML5**.
